@@ -59,8 +59,8 @@ python eval/runner.py --model <model_name> --dataset data/golden_dataset.jsonl
 
 ## Related Reading
 
-- [Blog 1: 当AI开始陪伴脆弱的人](https://glimpse-of-eurydice.github.io/) — Why general benchmarks fail for companion AI
-- Blog 2: Memory ethics in companion AI (Levinas-based framework)
+- [Blog 1: 当AI开始陪伴脆弱的人](https://glimpse-of-eurydice.github.io/2026/03/25/companion-ai-evaluation.html) — Why general benchmarks fail for companion AI
+- [Blog 2: Memory ethics in companion AI](https://glimpse-of-eurydice.github.io/2026/03/31/companion-ai-memory-ethics.html) (Levinas-based framework)
 - Blog 3: Benchmark pipeline methodology (forthcoming)
 
 ## License
